@@ -73,7 +73,7 @@
       {
         "id": 6,
         "ui": "Input",
-        "common": "focus:border-[#064a2d]",
+        "common": "focus:border-[#4ade80]",
         "themeClasses": {
           "default": "border-gray-300 text-black bg-white",
           "theme_1": "border-zinc-300 text-white bg-zinc-900",
