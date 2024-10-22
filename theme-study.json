@@ -118,6 +118,7 @@
         "ui": "Typography",
         "themeClasses": {
           "primary": "text-[#064a2d]",
+          "price": "text-[#4ade80] bg-[#333] w-max font-medium my-0 mx-2 rounded py-0.5 px-1",
           "default": "",
           "theme_1": "",
           "theme_2": "",
