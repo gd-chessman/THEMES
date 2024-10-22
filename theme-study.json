@@ -117,7 +117,7 @@
         "id": 9,
         "ui": "Typography",
         "themeClasses": {
-          "primary": "text-[#064a2d]"
+          "primary": "text-[#064a2d]",
           "default": "",
           "theme_1": "",
           "theme_2": "",
