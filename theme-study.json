@@ -156,6 +156,7 @@
       {
         "id": 13,
         "ui": "Footer",
+        "common": "border-[#555]",
         "themeClasses": {
           "default": "md:p-4 bg-zinc-200 mt-2 text-black border-gray-300",
           "theme_1": "md:p-4 bg-zinc-800 mt-2 text-white shadow-white",
