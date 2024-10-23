@@ -146,6 +146,7 @@
       {
         "id": 12,
         "ui": "Header",
+        "common": "border-[#555]",
         "themeClasses": {
           "default": "md:px-4 bg-inherit text-black border-zinc-200",
           "theme_1": "md:px-4 bg-zinc-950 text-white shadow-white",
