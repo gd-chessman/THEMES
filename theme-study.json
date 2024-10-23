@@ -159,7 +159,7 @@
         "themeClasses": {
           "default": "md:p-4 bg-zinc-200 mt-2 text-black border-gray-300",
           "theme_1": "md:p-4 bg-zinc-800 mt-2 text-white shadow-white",
-          "theme_2": "md:p-4 bg-[#170f23] border-0 border-t border-solid border-t-zinc-200 text-white"
+          "theme_2": "md:p-4 bg-[#170f23] border-0 border-t border-solid border-t-[#555] text-white"
         }
       },
       {
@@ -183,6 +183,7 @@
       {
         "id": 16,
         "ui": "Sidebar",
+        "common": "border-[#555]",
         "themeClasses": {
           "default": "bg-inherit text-black border-zinc-400",
           "theme_1": "bg-zinc-900 text-white shadow-white ",
