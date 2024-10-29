@@ -40,7 +40,7 @@
           "theme_1": "text-white bg-zinc-800 border-zinc-700 hover:bg-zinc-700 active:bg-zinc-800 focus:ring-1 focus:ring-zinc-500",
           "theme_2": "text-white bg-[#9d4be0] border-[#7e3ab7] hover:bg-[#8e46cd] active:bg-[#a153e6] focus:ring-1 focus:ring-[#9d4be0]",
           "reset": "bg-transparent text-[inherit] border-none rounded-none m-0 p-0",
-          "primary": "bg-[#facc15] text-white border-green-400",
+          "primary": "bg-[#facc15] text-white border-[#ca8a04]",
           "logo": "bg-[inherit] border-none w-full mt-0",
           "transparent": "bg-transparent text-[inherit] text-inherit border-none rounded-none mt-0",
           "logout": "bg-transparent font-normal text-inherit justify-start border-none rounded-none mt-0 mb-2",
