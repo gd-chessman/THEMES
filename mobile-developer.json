@@ -118,6 +118,7 @@
         "ui": "Typography",
         "themeClasses": {
           "primary": "text-[#facc15]",
+          "footer_home": "text-yellow-600",
           "price": "text-[#4ade80] w-max mt-0 mx-2",
           "default": "",
           "theme_1": "",
