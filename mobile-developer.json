@@ -74,7 +74,7 @@
         "id": 6,
         "ui": "Input",
         "themeClasses": {
-          "default": "border-gray-300 text-black bg-white focus:border-[#4ade80]",
+          "default": "border-gray-300 text-black bg-white focus:border-[#facc15]",
           "theme_1": "border-zinc-300 text-white bg-zinc-900 focus:border-[#4ade80]",
           "theme_2": "border-[#9b4de0] text-[#dadada] bg-[#2f2739] focus:border-[#c084fc]",
           "search_2": "border-none text-[#dadada] bg-[#2f2739] rounded-full px-4 focus:bg-[#34224f]"
