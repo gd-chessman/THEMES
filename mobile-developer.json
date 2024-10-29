@@ -1,0 +1,222 @@
+{
+    "listThemes": [
+      {
+        "id": 1,
+        "name": "default"
+      },
+      {
+        "id": 2,
+        "name": "theme_1"
+      },
+      {
+        "id": 3,
+        "name": "theme_2"
+      }
+    ],
+    "themesApp": [
+      {
+        "id": 1,
+        "ui": "Layout",
+        "themeClasses": {
+          "default": "bg-[#f9fafc] text-black border-gray-300",
+          "theme_1": "bg-zinc-950 text-white shadow-white",
+          "theme_2": "bg-[#170f23] text-white"
+        }
+      },
+      {
+        "id": 2,
+        "ui": "Container",
+        "themeClasses": {
+          "default": "md:p-4 bg-white text-black border-gray-300",
+          "theme_1": "md:p-4 bg-zinc-950 text-white",
+          "theme_2": "md:p-4 bg-[#170f23] text-white"
+        }
+      },
+      {
+        "id": 3,
+        "ui": "Button",
+        "themeClasses": {
+          "default": "text-white bg-blue-600 border-blue-700 hover:bg-blue-700 active:bg-blue-800 focus:ring-1 focus:ring-blue-300",
+          "theme_1": "text-white bg-zinc-800 border-zinc-700 hover:bg-zinc-700 active:bg-zinc-800 focus:ring-1 focus:ring-zinc-500",
+          "theme_2": "text-white bg-[#9d4be0] border-[#7e3ab7] hover:bg-[#8e46cd] active:bg-[#a153e6] focus:ring-1 focus:ring-[#9d4be0]",
+          "reset": "bg-transparent text-[inherit] border-none rounded-none m-0 p-0",
+          "primary": "bg-[#064a2d] text-white border-green-400",
+          "logo": "bg-[inherit] border-none w-full mt-0",
+          "transparent": "bg-transparent text-[inherit] text-inherit border-none rounded-none mt-0",
+          "logout": "bg-transparent font-normal text-inherit justify-start border-none rounded-none mt-0 mb-2",
+          "switch": "bg-slate-50 text-[inherit] text-black hover:bg-slate-100",
+          "setting": "bg-[#30293b] border-none p-2 text-[inherit]",
+          "simple": "text-white bg-blue-600 border-blue-700 hover:bg-blue-700 active:bg-blue-800 focus:ring-1 focus:ring-blue-300",
+          "success": "text-white bg-green-500 border-green-700 hover:bg-green-600 active:bg-green-700 focus:ring-1 focus:ring-green-300",
+          "warning": "text-black bg-yellow-400 border-yellow-500 hover:bg-yellow-500 active:bg-yellow-600 focus:ring-1 focus:ring-yellow-300",
+          "error": "text-black bg-red-600 border-red-700 hover:bg-red-700 active:bg-red-800 focus:ring-1 focus:ring-red-300"
+        }
+      },
+      {
+        "id": 4,
+        "ui": "Form",
+        "themeClasses": {
+          "default": "bg-gray-200 border-gray-300 text-black",
+          "theme_1": "border-blue-300 bg-zinc-800 text-blue-700",
+          "theme_2": "bg-[#0e0f1a] text-white"
+        }
+      },
+      {
+        "id": 5,
+        "ui": "Label",
+        "themeClasses": {
+          "default": "bg-white text-black border-gray-300",
+          "theme_1": "bg-zinc-950 text-white shadow-white",
+          "theme_2": "bg-green-500 text-white"
+        }
+      },
+      {
+        "id": 6,
+        "ui": "Input",
+        "themeClasses": {
+          "default": "border-gray-300 text-black bg-white focus:border-[#4ade80]",
+          "theme_1": "border-zinc-300 text-white bg-zinc-900 focus:border-[#4ade80]",
+          "theme_2": "border-[#9b4de0] text-[#dadada] bg-[#2f2739] focus:border-[#c084fc]",
+          "search_2": "border-none text-[#dadada] bg-[#2f2739] rounded-full px-4 focus:bg-[#34224f]"
+        }
+      },
+      {
+        "id": 7,
+        "ui": "Table",
+        "themeClasses": {
+          "default": {
+            "table": "bg-gray-300 text-black",
+            "evenRow": "bg-gray-100",
+            "oddRow": "bg-white",
+            "hoverRow": "hover:bg-gray-200"
+          },
+          "theme_1": {
+            "table": "bg-zinc-900 text-zinc-200",
+            "evenRow": "bg-zinc-800",
+            "oddRow": "bg-zinc-800",
+            "hoverRow": "hover:bg-zinc-700"
+          },
+          "theme_2": {
+            "table": "bg-[#170f23] text-[#dadada]",
+            "evenRow": "bg-[#2f2739]",
+            "oddRow": "bg-[#2f2739]",
+            "hoverRow": "hover:bg-[#8e46cd]"
+          }
+        }
+      },
+      {
+        "id": 8,
+        "ui": "Pagination",
+        "themeClasses": {
+          "default": "text-blue-500 bg-gray-200 border-gray-300 hover:bg-gray-100",
+          "theme_1": "text-zinc-400 bg-gray-900 border-gray-600 hover:bg-gray-700",
+          "theme_2": "text-white bg-[#2f2739] border-[#9d4be0] hover:bg-[#8e46cd]"
+        }
+      },
+      {
+        "id": 9,
+        "ui": "Typography",
+        "themeClasses": {
+          "primary": "text-[#064a2d]",
+          "price": "text-[#4ade80] w-max mt-0 mx-2",
+          "default": "",
+          "theme_1": "",
+          "theme_2": "",
+          "hr": "!my-1 border-0 border-t border-solid border-t-zinc-400 w-4/5 mx-auto"
+        }
+      },
+      {
+        "id": 10,
+        "ui": "Card",
+        "themeClasses": {
+          "default": "bg-white",
+          "theme_1": "card-theme-1",
+          "theme_2": "card-theme-2"
+        }
+      },
+      {
+        "id": 11,
+        "ui": "Editor",
+        "themeClasses": {
+          "default": "bg-white",
+          "theme_1": "bg-zinc-900 text-white border-gray-600",
+          "theme_2": "bg-[#2f2739] text-[#dadada] border-solid border-[#9b4de0]"
+        }
+      },
+      {
+        "id": 12,
+        "ui": "Header",
+        "common": "border-[#555]",
+        "themeClasses": {
+          "default": "md:px-4 bg-inherit text-black border-zinc-200",
+          "theme_1": "md:px-4 bg-zinc-950 text-white shadow-white",
+          "theme_2": "md:px-4 bg-[#170f23] text-white"
+        }
+      },
+      {
+        "id": 13,
+        "ui": "Footer",
+        "common": "border-[#555]",
+        "themeClasses": {
+          "default": "md:p-4 bg-zinc-200 mt-2 text-black border-gray-300",
+          "theme_1": "md:p-4 bg-zinc-800 mt-2 text-white shadow-white",
+          "theme_2": "md:p-4 bg-[#170f23] border-0 border-t border-solid border-t-[#555] text-white"
+        }
+      },
+      {
+        "id": 14,
+        "ui": "Nav",
+        "themeClasses": {
+          "default": "bg-inherit text-black",
+          "theme_1": "text-white",
+          "theme_2": "text-white"
+        }
+      },
+      {
+        "id": 15,
+        "ui": "Anchor",
+        "themeClasses": {
+          "default": "",
+          "theme_1": "text-white",
+          "theme_2": ""
+        }
+      },
+      {
+        "id": 16,
+        "ui": "Sidebar",
+        "common": "border-[#555]",
+        "themeClasses": {
+          "default": "bg-inherit text-black border-zinc-400",
+          "theme_1": "bg-zinc-900 text-white shadow-white ",
+          "theme_2": "bg-[#231b2e] text-white"
+        }
+      },
+      {
+        "id": 17,
+        "ui": "Main",
+        "themeClasses": {
+          "default": "md:p-4",
+          "theme_1": "md:p-4",
+          "theme_2": "md:p-4"
+        }
+      },
+      {
+        "id": 18,
+        "ui": "Modal",
+        "themeClasses": {
+          "default": "bg-white text-black border-gray-300",
+          "theme_1": "bg-zinc-950 text-white shadow-white",
+          "theme_2": "bg-[#231b2e] text-white"
+        }
+      },
+      {
+        "id": 19,
+        "ui": "Details",
+        "themeClasses": {
+          "default": "bg-zinc-200",
+          "theme_1": "bg-zinc-800",
+          "theme_2": "bg-purple-950"
+        }
+      }
+    ]
+  }
