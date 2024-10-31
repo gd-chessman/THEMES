@@ -123,7 +123,8 @@
           "default": "",
           "theme_1": "",
           "theme_2": "",
-          "hr": "!my-1 border-0 border-t border-solid border-t-zinc-400 w-4/5 mx-auto"
+          "hr": "!my-1 border-0 border-t border-solid border-t-zinc-400 w-4/5 mx-auto",
+          "noti": "absolute rounded-full top-0 right-0 bg-red-600 min-w-[14px] h-[14px] text-[12px] flex items-center justify-center"
         }
       },
       {
