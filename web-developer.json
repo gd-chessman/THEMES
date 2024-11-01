@@ -178,9 +178,9 @@
         "id": 15,
         "ui": "Anchor",
         "themeClasses": {
-          "default": "",
+          "default": "text-black",
           "theme_1": "text-white",
-          "theme_2": ""
+          "theme_2": "text-white"
         }
       },
       {
